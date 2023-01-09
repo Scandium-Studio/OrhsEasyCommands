@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Creative Commons Attribution-NonCommercial 4.0 International License"
+
+[[mods]]
+modId="wfb_commands"
+version="1.5.0"
+displayName="WFB's EZ Commands (Forge)"
+credits="Made with MCreator"
+displayURL="https://github.com/WForst-Breeze/glassplus-developerkit"
+logoFile="logo.png"
+authors="WForst_Breeze"
+description='''
+A Useful tool kit for the develpers.
+'''
+
+[[dependencies.wfb_commands]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
